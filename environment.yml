@@ -169,9 +169,4 @@ dependencies:
   - zipp
   - zlib
   - zstd
-  - pip:
-    - pyqt5-sip
-    - pyqtchart
-    - pyqtwebengine
-prefix: /home/frankdfr/anaconda3/envs/graphtool
 
