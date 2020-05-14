@@ -1,0 +1,6 @@
+name: graphtools
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/frankdfr/anaconda3/envs/graphtools
+
