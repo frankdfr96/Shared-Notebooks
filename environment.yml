@@ -1,4 +1,4 @@
-name: root
+name: temp
 channels:
   - conda-forge
   - defaults
