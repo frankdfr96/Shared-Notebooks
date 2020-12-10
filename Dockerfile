@@ -1,4 +1,4 @@
-FROM tiagopeixoto/graph-tool:b4a8718077ecd04c0dbf266b5a25a85d7be1285bb2d552c2b9d912fbf2bffb66
+FROM tiagopeixoto/graph-tool:sha256:b4a8718077ecd04c0dbf266b5a25a85d7be1285bb2d552c2b9d912fbf2bffb66
 # install the notebook package
 RUN pip install --no-cache --upgrade pip && \
     pip install --no-cache notebook
